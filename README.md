@@ -8,4 +8,4 @@ Seviour, W. J. M., D. M. Mitchell, and L. J. Gray (2013), A practical method to 
 
 PCH_SSW_fitter.py. This code calculates time-height slices of SSWs, using .npy files from SSW_finder.py
 
-moments_mode_aalculator.py. This codecalculates the aspect ratio and centroid latitude modes for a model.
+moments_mode_calculator.py. This codecalculates the aspect ratio and centroid latitude modes for a model.
